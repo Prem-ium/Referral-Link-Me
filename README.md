@@ -29,7 +29,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpoXYV&xl=cp01">
-          <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="width:420px; height:182px; vertical-align:middle; border:none;">
+          <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="width:420px; height:150px; vertical-align:middle; border:none;">
           <br><strong>American Express Blue Cash Everyday®</strong>
         </a>
       </td>
@@ -151,7 +151,7 @@ To ensure a smooth and transparent experience, please read the following terms a
 4. **First Come, First Served**: Some services may limit the number of referrals I can sign up. If I do not receive any reward, I will be unable to offer you any reward beyond my appreciation. Any reward offered by me operates on a first come, first served basis. 
 5. **Payment Method**: The extra reward will be transferred via PayPal or Zelle.
 6. **Documentation**: You may be required to provide proof of meeting the conditions to receive the extra reward.
-7. **Contact for Verification**: To help me track and verify your referral, please contact me immediately after singing up using my referral link. You can do this by opening an 'Issue' on GitHub or messaging me privately. This will ensure that I can track/confirm your referral status.
+7. **Contact for Verification**: To help me track and verify your referral, please contact me immediately after singing up using my referral link. This will ensure that I can track/confirm your referral status.
 
 Thank you for your cooperation!
 
