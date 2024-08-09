@@ -98,6 +98,47 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
   </tr>
 -->
 
+### Cashback Portals
+Here’s a special opportunity to earn extra cashback at your favorite stores with cashback portals! 
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #ddd; padding:8px;">Cashback Portal</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
+      <th style="border:1px solid #ddd; padding:8px;">Referral Bonus</th>
+      <th style="border:1px solid #ddd; padding:8px;">Offer from Me</th>
+      <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
+      <th style="border:1px solid #ddd; padding:8px;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971">
+          <img src="https://static.rakuten.com/static/svg/rakuten/rak-logo-brand-v1.svg" alt="Rakuten" style="width:420px; height:150px; vertical-align:middle; border:none;">
+          <br><strong>Rakuten</strong>
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">Extra 10% Cash Back</td>
+      <td style="border:1px solid #ddd; padding:8px;">$30 cashback when you join and spend $30</td>
+      <td style="border:1px solid #ddd; padding:8px;">$2.50</td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Use Referral Link</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <ul style="margin:0; padding:0; list-style-type:none;">
+          <li><strong>Get an extra 10% cash back:</strong> Available for a limited time.</li>
+          <li><strong>Referral Bonus:</strong> Earn $30 each when you make a $30 purchase after using the link.</li>
+          <li><strong>Offer from Me:</strong> Receive an additional $2.50 when you use my referral link.</li>
+          <li><strong>Terms Apply:</strong> Check Rakuten’s site for full details.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### Brokerages
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
@@ -139,7 +180,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
 
 
 ## Sponsor Benefits
-Established Silver/Gold GitHub Sponsors on logs for 1+ month may be eligible for additional reward amounts. 
+Established Silver/Gold Tier GitHub Sponsors on logs for 3+ months may be eligible for an additional reward. 
 
 ## Terms and Conditions
 
