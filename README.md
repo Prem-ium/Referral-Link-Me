@@ -40,7 +40,6 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
         <ul style="margin:0; padding:0; list-style-type:none;">
           <li><strong>Get an extra 10% cash back:</strong> Available for a limited time.</li>
           <li><strong>Referral Bonus:</strong> Earn $30 each when you make a $30 purchase after using the link.</li>
-          <li><strong>Offer from Me:</strong> Receive an additional $2.50 when you use my referral link.</li>
           <li><strong>Terms Apply:</strong> Check Rakuten’s site for full details.</li>
         </ul>
       </td>
