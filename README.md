@@ -57,7 +57,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       <th style="border:1px solid #ddd; padding:8px;">Credit Card</th>
       <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
       <th style="border:1px solid #ddd; padding:8px;">Extra Reward from Me (if applicable)</th>
-      <th style="border:1px solid #ddd; padding:8px;">Annual Fee</th>
+      <!-- <th style="border:1px solid #ddd; padding:8px;">Annual Fee</th>-->
       <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
       <th style="border:1px solid #ddd; padding:8px;">Notes</th>
     </tr>
@@ -72,7 +72,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       </td>
       <td style="border:1px solid #ddd; padding:8px;">$200 after spending $2,000 in 6 months</td>
       <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
-      <td style="border:1px solid #ddd; padding:8px;">$0</td>
+      <!-- <td style="border:1px solid #ddd; padding:8px;">$0</td>-->
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpoXYV&xl=cp01" style="height: 620px; width: 382px; color:#007bff; text-decoration:none;">Use Referral Link</a>
       </td>
@@ -95,7 +95,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
     </td>
     <td style="border:1px solid #ddd; padding:8px;">Get approved & use your card within the first 3 months for $100 statement credit</td>
     <td style="border:1px solid #ddd; padding:8px;">$10 (10%)</td>
-    <td style="border:1px solid #ddd; padding:8px;">$0</td>
+    <!-- <td style="border:1px solid #ddd; padding:8px;">$0</td>-->
     <td style="border:1px solid #ddd; padding:8px;">
       <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff; text-decoration:none;">Use Referral Link</a>
     </td>
