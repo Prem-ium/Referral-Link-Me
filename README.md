@@ -39,6 +39,7 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
           <li><strong>Get an extra 10% cash back:</strong> Available for a limited time.</li>
+          <li><strong>My offer will be delayed until Rakuten issues checks, which typically occurs on the payment date, approximately every three months.</strong></li>
           <li><strong>Referral Bonus:</strong> Earn $30 each when you make a $30 purchase after using the link.</li>
           <li><strong>Terms Apply:</strong> Check Rakuten’s site for full details.</li>
         </ul>
@@ -184,15 +185,13 @@ Established Silver/Gold Tier GitHub Sponsors on logs for 3+ months may be eligib
 
 To ensure a smooth and transparent experience, please read the following terms and conditions carefully:
 
-1. **Eligibility**: This offer is valid only if you use my referral link and meet the required conditions within the specified time frame.
-2. **Extra Reward Payment**: The extra reward from me will be paid out once the company sends the referral reward to me. This process may take up to 8-12 weeks after the conditions are met.
+1. **Eligibility**: This offer is valid only if you use my referral link and meet the required conditions set by the service within the specified time frame.
+2. **Extra Reward Payment**: The extra reward from me will be paid out once the company sends the referral reward to me. This process may take up to 8-15 weeks after the conditions are met.
 3. **Offer Availability**: The extra reward from me is only paid out if the referral is successful and the service does not discontinue or restrict its current referral offer.
 4. **First Come, First Served**: Some services may limit the number of referrals I can sign up. If I do not receive any reward, I will be unable to offer you any reward beyond my appreciation. Any reward offered by me operates on a first come, first served basis. 
-5. **Payment Method**: The extra reward will be transferred via PayPal or Zelle.
+5. **Payment Method**: The extra reward will be transferred via Zelle.
 6. **Documentation**: You may be required to provide proof of meeting the conditions to receive the extra reward.
 7. **Contact for Verification**: To help me track and verify your referral, please contact me immediately after singing up using my referral link. This will ensure that I can track/confirm your referral status.
-
-Thank you for your cooperation!
 
 ## Legal Disclaimer
 
