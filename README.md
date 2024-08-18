@@ -135,6 +135,42 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
   </tr>
 -->
 
+### Banking
+Take advantage of this opportunity to earn more with a high-yield Online Savings Account at Marcus by Goldman Sachs!
+
+Open an Online Savings Account using my unique referral link below and enjoy a bonus APY. Although I cannot offer a reward, using this referral link will provide you with a better rate than signing up directly.
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Bank</th>
+      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Current Savings Account Rate</th>
+      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Referral Link</th>
+      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">
+          <img src="https://www.marcus.com/content/dam/marcus/us/en/logo/logo_blue.svg" alt="Marcus by Goldman Sachs" style="width:200px; height:auto; vertical-align:middle; border:none;">
+          <br><strong>Marcus by Goldman Sachs</strong>
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">4.40% APY</td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">Use Referral Link</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <ul style="margin:0; padding:0; list-style-type:none;">
+          <li>Although I cannot offer a reward, using this referral link will provide you with a better rate than signing up directly.</li>
+          <li><strong>Referral Bonus:</strong> +0.25% for 3 months</li>
+          <li><strong>Terms Apply:</strong> Click the referral link for full terms and conditions.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Brokerages
 
