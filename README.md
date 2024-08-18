@@ -34,7 +34,7 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
       <td style="border:1px solid #ddd; padding:8px;">$30 cashback when you join and spend $30</td>
       <td style="border:1px solid #ddd; padding:8px;">$3.00 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Use Referral Link</a>
+        <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Rakuten Referral Link</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
@@ -74,7 +74,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
       <!-- <td style="border:1px solid #ddd; padding:8px;">$0</td>-->
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpoXYV&xl=cp01" style="height: 620px; width: 382px; color:#007bff; text-decoration:none;">Use Referral Link</a>
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpoXYV&xl=cp01" style="height: 620px; width: 382px; color:#007bff; text-decoration:none;">American Express Referral Link</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
@@ -97,7 +97,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
     <td style="border:1px solid #ddd; padding:8px;">$10 (10%)</td>
     <!-- <td style="border:1px solid #ddd; padding:8px;">$0</td>-->
     <td style="border:1px solid #ddd; padding:8px;">
-      <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff; text-decoration:none;">Use Referral Link</a>
+      <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff; text-decoration:none;">Discover Referral Link</a>
     </td>
     <td style="border:1px solid #ddd; padding:8px;">
       <ul style="margin:0; padding:0; list-style-type:none;">
@@ -159,7 +159,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
       </td>
       <td style="border:1px solid #ddd; padding:8px;">4.40% APY</td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">Use Referral Link</a>
+        <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">Marcus Goldman Sachs Referral Link</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
