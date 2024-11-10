@@ -173,7 +173,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">
-          <img src="https://www.marcus.com/content/dam/marcus/us/en/logo/logo_blue.svg" alt="Marcus by Goldman Sachs" style="width:200px; height:auto; vertical-align:middle; border:none;">
+          <img src="https://pbs.twimg.com/profile_images/1224326978792296449/9iMQOveW_400x400.png" alt="Marcus by Goldman Sachs" style="width:200px; height:auto; vertical-align:middle; border:none;">
           <br><strong>Marcus by Goldman Sachs</strong>
         </a>
       </td>
