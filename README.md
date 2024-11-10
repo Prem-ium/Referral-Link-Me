@@ -110,7 +110,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       <tr>
          <td style="border:1px solid #ddd; padding:8px; text-align:center;">
             <a href="https://privacy.com/join/G25UX">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5uJRdTLXf2AbHbMpT4bxJY0XCkrLn96xOw&s" alt="Privacy Card" style="width:420px; height:150px; vertical-align:middle; border:none;">
+            <img src="https://cdn.prod.website-files.com/6356e57a1c98ed8f8e4285ae/664523e2da0e4763e3790744_protected.png" alt="Privacy Card" style="width:320px; height:150px; vertical-align:middle; border:none;">
             <br><strong>Privacy Card</strong><br>(Virtual Credit Card Generator)
             </a>
          </td>
