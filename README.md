@@ -73,7 +73,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
             <br><strong>American Express Blue Cash Everyday®</strong>
             </a>
          </td>
-         <td style="border:1px solid #ddd; padding:8px;">$200 after spending $2,000 in 6 months</td>
+         <td style="border:1px solid #ddd; padding:8px;">$250 after spending $2,000 in 6 months</td>
          <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
          <!-- <td style="border:1px solid #ddd; padding:8px;">$0</td>-->
          <td style="border:1px solid #ddd; padding:8px;">
