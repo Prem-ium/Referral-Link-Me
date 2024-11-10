@@ -34,14 +34,14 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
           <br><strong>Rakuten</strong>
         </a>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">Extra 10% Cashback Intro; MUST spend $30 to qualify for bonus offer.</td>
+      <td style="border:1px solid #ddd; padding:8px;">Extra 10% Cashback Intro OR $30 Back when you spend $30.</td>
       <td style="border:1px solid #ddd; padding:8px;">$3.00 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Rakuten Referral Link</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>Get an extra 10% cash back:</strong> Available for a limited time.</li>
+          <li><strong>Get an extra 10% cash back:</strong> Or a $30 credit for spending $30.</li>
           <li><strong>My offer will be delayed until Rakuten issues checks, which typically occurs on the payment date, approximately every three months.</strong></li>
           <li><strong>Referral Bonus:</strong> Earn $30 each when you make a $30 purchase after using the link.</li>
           <li><strong>Terms Apply:</strong> Check Rakuten’s site for full details.</li>
