@@ -69,7 +69,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       <tr>
          <td style="border:1px solid #ddd; padding:8px; text-align:center;">
             <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpoXYV&xl=cp01">
-            <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="width:420px; height:150px; vertical-align:middle; border:none;">
+            <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="width:450px; height:150px; vertical-align:middle; border:none;">
             <br><strong>American Express Blue Cash Everyday®</strong>
             </a>
          </td>
