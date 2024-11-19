@@ -35,7 +35,7 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
         </a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">Extra 10% Cashback Intro OR $40 Back when you spend $40.</td>
-      <td style="border:1px solid #ddd; padding:8px;">$3.00 (10%)</td>
+      <td style="border:1px solid #ddd; padding:8px;">$4.00 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Rakuten Referral Link</a>
       </td>
