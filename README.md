@@ -1,4 +1,6 @@
-# Referral-Link-Me: Maximize Your Rewards with Curated Referral Links
+python main.py NVDA,TSLA,AAPLmain.pypython main.py AAPLpython main.pygit clone https://github.com/Prem-ium/Auto-StockTrader
+cd Auto-StockTrader
+pip install -r requirements.txthttps://github.com/Prem-ium/Auto-StockTradersudo ln -s /opt/homebrew/lib/libcairo.2.dylib /usr/local/librequirements.txt# Referral-Link-Me: Maximize Your Rewards with Curated Referral Links
 <p align="center">
     <img src="https://github.com/Prem-ium/Referral-Link-Me/blob/main/.github/Assets/Banner.png?raw=true" alt="Referral Link Me Banner">
 </p>
