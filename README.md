@@ -60,7 +60,6 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
          <th style="border:1px solid #ddd; padding:8px;">Credit Card</th>
          <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
          <th style="border:1px solid #ddd; padding:8px;">Extra Reward from Me (if applicable)</th>
-         <!-- <th style="border:1px solid #ddd; padding:8px;">Annual Fee</th>-->
          <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
          <th style="border:1px solid #ddd; padding:8px;">Notes</th>
       </tr>
@@ -177,7 +176,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
           <br><strong>Marcus by Goldman Sachs</strong>
         </a>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">4.10% APY (as of 11/3/2024)</td>
+      <td style="border:1px solid #ddd; padding:8px;">3.90% APY (as of 12/11/2024)</td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">Marcus Goldman Sachs Referral Link</a>
       </td>
@@ -206,7 +205,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
     <tr>
       <td style="border:1px solid #ddd; padding:8px;">WeBull</td>
       <td style="border:1px solid #ddd; padding:8px;">
-        1 Free stock worth $2.50-$250 immediately. Deposit $100 for an additional stock worth $8-$1600, no hold required.
+        Create an Account & Deposit Any Amount for up to 24 Free Shares
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://a.webull.com/ngmAEU7Yr1rrRMzqS0" style="color:#007bff; text-decoration:none;">Sign up</a>
