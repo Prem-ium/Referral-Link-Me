@@ -5,6 +5,7 @@
 
 Welcome to **Referral-Link-Me**! This is a curated list of referral links to credit cards, brokerages, and more that I use (with additional rewards for some services). By using some of my referral links, you can gain extra benefits beyond the base rewards offered by companies. Using these links also supports me, as I may earn a small commission or benefit at no cost to you.
 
+---
 ## How It Works
 
 1. **Choose a Service**: Browse the available referral options below.
@@ -12,6 +13,7 @@ Welcome to **Referral-Link-Me**! This is a curated list of referral links to cre
 3. **Meet the Requirements**: Complete the necessary actions within the specified time frame.
 4. **Potentially Earn Rewards**: Receive your base reward from the company and potentially additional benefits from me if applicable!
 
+---
 ## Available Referral Links
 ### Cashback Portals
 Here’s a special opportunity to earn extra cashback at your favorite stores with cashback portals! 
@@ -230,28 +232,22 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
   </tbody>
 </table>
 
-
+---
 ## Sponsor Benefits
-Established Silver/Gold Tier GitHub Sponsors on logs for 3+ months may be eligible for an additional 5-10% reward. 
+Silver/Gold Tier GitHub Sponsors on logs for 3+ months may be eligible for an additional 5-10% reward. 
    - [Donate via GitHub Sponsors](https://github.com/sponsors/Prem-ium)
    - [![GitHub Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Prem-ium)
 
-## Terms and Conditions
+---
+## Terms & Conditions
 
 To ensure a smooth and transparent experience, please read the following terms and conditions carefully:
 
-1. **Eligibility**: This offer is valid only if you use my referral link and meet the required conditions set by the service within the specified time frame.
-2. **Extra Reward Payment**: The extra reward from me will be paid out once the company sends the referral reward to me. This process may take up to 8-15 weeks after the conditions are met.
-3. **Offer Availability**: The extra reward from me is only paid out if the referral is successful and the service does not discontinue or restrict its current referral offer.
-4. **First Come, First Served**: Some services may limit the number of referrals I can sign up. If I do not receive any reward, I will be unable to offer you any reward beyond my appreciation. Any reward offered by me operates on a first come, first served basis. 
-5. **Payment Method**: The extra reward will be transferred via Zelle.
-6. **Documentation**: You may be required to provide proof of meeting the conditions to receive the extra reward.
-7. **Contact for Verification**: To help me track and verify your referral, please contact me immediately after singing up using my referral link. This will ensure that I can track/confirm your referral status.
+1. **Eligibility**: This offer is valid only if you use my referral link and meet the required conditions set by the service within the specified time frame.  
+2. **Extra Reward Payment**: The extra reward from me will be paid out (via Zelle payment) once the company sends the referral reward to me.  
+3. **Offer Availability**: The extra reward from me is only paid out if the referral is successful, and the service does not discontinue, restrict, or alter its current referral offer. Apps/websites may update their referral offer without prior notice, but the percentage (not amount) of new offer listed in the readme will be honored unless explicitly stated otherwise.   
+4. **Documentation**: You may be required to provide proof of meeting the conditions to receive the extra reward.
 
-## Legal Disclaimer
-
-This referral program is operated independently and is not endorsed by any of the companies mentioned. Please review the terms and conditions of each company's referral program. I am not responsible for any changes to the companies' terms, rewards, or conditions.
-
+---
 ## Thank You!
-
 Thank you for supporting me by using my referral links! Using these links costs you nothing, yet it provides significant support to me. Your support is greatly appreciated and enables me to continue creating and sharing valuable tools and resources with the open-source community. If you have any questions or need further information, please feel free to reach out!
