@@ -5,13 +5,15 @@
 
 Welcome to **Referral-Link-Me**! This is a curated list of referral links to credit cards, brokerages, and more that I use (with additional rewards for some services). By using some of my referral links, you can gain extra benefits beyond the base rewards offered by companies. Using these links also supports me, as I may earn a small commission or benefit at no cost to you.
 
+Please [Email Me](mailto:premium.github@gmail.com) your Zelle once you've used the referral link and fufilled the conditions to unlock the referral bonus. 
+
 ---
 ## How It Works
 
 1. **Choose a Service**: Browse the available referral options below.
 2. **Use My Referral Link**: Click on the referral link provided.
 3. **Meet the Requirements**: Complete the necessary actions within the specified time frame.
-4. **Potentially Earn Rewards**: Receive your base reward from the company and potentially additional benefits from me if applicable!
+4. **Earn Extra Cash/Rewards**: Receive your base reward from the company and potentially additional benefits from me [by emailing me)](mailto:premium.github@gmail.com), if applicable!
 
 ---
 ## Available Referral Links
