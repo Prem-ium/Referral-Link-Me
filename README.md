@@ -1,4 +1,4 @@
-# Referral-Link-Me: Maximize Your Rewards with Curated Referral Links
+<h1 align="center">Referral-Link-Me: Maximize Rewards 🎁💸</h1>
 <p align="center">
     <img src="https://github.com/Prem-ium/Referral-Link-Me/blob/main/.github/Assets/Banner.png?raw=true" alt="Referral Link Me Banner">
 </p>
@@ -8,16 +8,16 @@ Welcome to **Referral-Link-Me**! This is a curated list of referral links to cre
 Please [Email Me](mailto:premium.github@gmail.com) your Zelle once you've used the referral link and fufilled the conditions to unlock the referral bonus. 
 
 ---
-## How It Works
+## How It Works 🔍
 
 1. **Choose a Service**: Browse the available referral options below.
 2. **Use My Referral Link**: Click on the referral link provided.
 3. **Meet the Requirements**: Complete the necessary actions within the specified time frame.
-4. **Earn Extra Cash/Rewards**: Receive your base reward from the company and potentially additional benefits from me [by emailing me)](mailto:premium.github@gmail.com), if applicable!
+4. **Earn Extra Cash/Rewards**: Receive your base reward from the company and potentially additional benefits from me [by emailing me)](mailto:premium.github@gmail.com), if applicable! The percentage of the reward from me is based on the amount I receive for referring you.
 
 ---
-## Available Referral Links
-### Cashback Portals
+## Available Referral Links 🌐
+### Cashback Portals 💰
 Here’s a special opportunity to earn extra cashback at your favorite stores with cashback portals! 
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
@@ -57,7 +57,7 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
 </table>
 
 
-### Credit Cards
+### Credit Cards 💳
 These are my favorite credit card(s) which offer great cashback and perks, without any annual fees!
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
@@ -161,7 +161,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
   </tr>
 -->
 
-### Banking
+### Banking 🏦
 Take advantage of this opportunity to earn more with a high-yield Online Savings Account at Marcus by Goldman Sachs!
 
 Open an Online Savings Account using my unique referral link below and enjoy a bonus APY. Although I cannot offer a reward, using this referral link will provide you with a better rate than signing up directly.
@@ -189,7 +189,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li>Although I cannot offer a reward, using this referral link will provide you with a better rate than signing up directly.</li>
+          <li>Although I cannot offer a reward, using this referral link will provide you with a better APY rate than signing up directly.</li>
           <li><strong>Referral Bonus:</strong> +0.25% Bonus APY for 3 months</li>
           <li><strong>Terms Apply:</strong> Click the referral link for full terms and conditions.</li>
         </ul>
@@ -198,7 +198,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
   </tbody>
 </table>
 
-### Brokerages
+### Brokerages 📈
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
   <thead>
@@ -238,19 +238,19 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
 </table>
 
 ---
-## Sponsor Benefits
+## Sponsor Benefits 🌟
 Silver/Gold Tier GitHub Sponsors on logs for 3+ months may be eligible for an additional 5-10% reward. 
    - [Donate via GitHub Sponsors](https://github.com/sponsors/Prem-ium)
    - [![GitHub Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Prem-ium)
 
 ---
-## Terms & Conditions
+## Terms & Conditions ⚖️
 
 To ensure a smooth and transparent experience, please read the following terms and conditions carefully:
 
 1. **Eligibility**: This offer is valid only if you use my referral link and meet the required conditions set by the service within the specified time frame.  
 2. **Extra Reward Payment**: The extra reward from me will be paid out (via Zelle payment) once the company sends the referral reward to me.  
-3. **Offer Availability**: The extra reward from me is only paid out if the referral is successful, and the service does not discontinue, restrict, or alter its current referral offer. Apps/websites may update their referral offer without prior notice, but the percentage (not amount) of new offer listed in the readme will be honored unless explicitly stated otherwise.   
+3. **Offer Availability**: The extra reward from me is only paid out if the referral is successful, and the service does not discontinue, restrict, or alter its current referral offer. Apps/websites may update their referral offer without prior notice, but the percentage (not amount) of new offer listed in the readme will be honored unless explicitly stated otherwise. 
 4. **Documentation**: You may be required to provide proof of meeting the conditions to receive the extra reward.
 
 ---
