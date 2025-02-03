@@ -24,7 +24,7 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
   <thead>
     <tr>
       <th style="border:1px solid #ddd; padding:8px;">Cashback Portal</th>
-      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward (From App)</th>
       <th style="border:1px solid #ddd; padding:8px;">Condition</th>
       <th style="border:1px solid #ddd; padding:8px;">Offer from Me</th>
       <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
@@ -204,7 +204,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
   <thead>
     <tr>
       <th style="border:1px solid #ddd; padding:8px;">Name</th>
-      <th style="border:1px solid #ddd; padding:8px;">Reward for Signing Up</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward (From App)</th>
       <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
     </tr>
   </thead>
