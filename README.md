@@ -239,7 +239,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
 
 ---
 ## Sponsor Benefits 🌟
-Silver/Gold Tier GitHub Sponsors on logs for 3+ months may be eligible for an additional 5-10% reward. 
+Gold Tier GitHub Sponsors on logs for 3+ months may be eligible for an additional 5-10% reward. 
    - [Donate via GitHub Sponsors](https://github.com/sponsors/Prem-ium)
    - [![GitHub Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Prem-ium)
 
