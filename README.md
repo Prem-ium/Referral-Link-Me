@@ -113,7 +113,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       </tr>
       <tr>
          <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-            <a href="https://privacy.com/join/G25UX">
+            <a href="https://app.privacy.com/join/G25UX">
             <img src="https://cdn.prod.website-files.com/6356e57a1c98ed8f8e4285ae/664523e2da0e4763e3790744_protected.png" alt="Privacy Card" style="width:320px; height:150px; vertical-align:middle; border:none;">
             <br><strong>Privacy Card</strong><br>(Virtual Credit Card Generator)
             </a>
@@ -122,7 +122,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
          <td style="border:1px solid #ddd; padding:8px;">Make any purchase using a Privacy Card</td>
          <td style="border:1px solid #ddd; padding:8px;">N/A</td>
          <td style="border:1px solid #ddd; padding:8px;">
-            <a href="https://privacy.com/join/G25UX" style="color:#007bff; text-decoration:none;">Privacy Referral Link</a>
+            <a href="https://app.privacy.com/join/G25UX" style="color:#007bff; text-decoration:none;">Privacy Referral Link</a>
          </td>
          <td style="border:1px solid #ddd; padding:8px;">
             <ul style="margin:0; padding:0; list-style-type:none;">
@@ -183,7 +183,7 @@ Open an Online Savings Account using my unique referral link below and enjoy a b
           <br><strong>Marcus by Goldman Sachs</strong>
         </a>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">3.90% APY (as of 12/11/2024)</td>
+      <td style="border:1px solid #ddd; padding:8px;">3.75% APY (as of 04/01/2025)</td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">Marcus Goldman Sachs Referral Link</a>
       </td>
