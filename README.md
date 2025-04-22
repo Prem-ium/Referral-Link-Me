@@ -40,14 +40,14 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
         </a>
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">$30</td>
-      <td style="border:1px solid #ddd; padding:8px;">Spend $30 on a qualifying order</td>
-      <td style="border:1px solid #ddd; padding:8px;">$3.00 (10%)</td>
+      <td style="border:1px solid #ddd; padding:8px;">Spend $40 on a qualifying order</td>
+      <td style="border:1px solid #ddd; padding:8px;">$4.00 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Sign Up with Rakuten Cashback Referral Link</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>Get an extra 10% cash back:</strong> Or a $30 credit for spending $30.</li>
+          <li><strong>Get an extra 10% cash back:</strong> Or a $40 credit for spending $40.</li>
           <li><strong>My offer will be delayed until Rakuten issues checks, which typically occurs on the payment date, approximately every three months.</strong></li>
           <li><strong>Terms Apply:</strong> Check Rakuten’s site for full details.</li>
         </ul>
