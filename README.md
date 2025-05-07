@@ -24,7 +24,7 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
   <thead>
     <tr>
       <th style="border:1px solid #ddd; padding:8px;">Cashback Portal</th>
-      <th style="border:1px solid #ddd; padding:8px;">Base Reward (From App)</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
       <th style="border:1px solid #ddd; padding:8px;">Condition</th>
       <th style="border:1px solid #ddd; padding:8px;">Offer from Me</th>
       <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
@@ -39,15 +39,15 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
           <br><strong>Rakuten</strong>
         </a>
       </td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">$30</td>
-      <td style="border:1px solid #ddd; padding:8px;">Spend $40 on a qualifying order</td>
-      <td style="border:1px solid #ddd; padding:8px;">$4.00 (10%)</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">$30 or $40</td>
+      <td style="border:1px solid #ddd; padding:8px;">Spend $30 or $40 (depending on current active offer) on a qualifying order</td>
+      <td style="border:1px solid #ddd; padding:8px;">10% of active offer; $3.00 ($30) or $4.00 ($40)</td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Sign Up with Rakuten Cashback Referral Link</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>Get an extra 10% cash back:</strong> Or a $40 credit for spending $40.</li>
+          <li><strong>Earn up to $30 or $40 back when you spend $30 or $40</strong>(Offer updates frequently, % is calculated based on average)</li>
           <li><strong>My offer will be delayed until Rakuten issues checks, which typically occurs on the payment date, approximately every three months.</strong></li>
           <li><strong>Terms Apply:</strong> Check Rakuten’s site for full details.</li>
         </ul>
@@ -55,6 +55,7 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
     </tr>
   </tbody>
 </table>
+
 
 
 ### Credit Cards 💳
