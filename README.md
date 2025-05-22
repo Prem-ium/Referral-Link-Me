@@ -10,16 +10,15 @@ Please [Email Me](mailto:premium.github@gmail.com) your Zelle once you've used t
 ---
 ## How It Works 🔍
 
-1. **Choose a Service**: Browse the available referral options below.
-2. **Use My Referral Link**: Click on the referral link provided.
-3. **Meet the Requirements**: Complete the necessary actions within the specified time frame.
-4. **Earn Extra Cash/Rewards**: Receive your base reward from the company and potentially additional benefits from me [by emailing me)](mailto:premium.github@gmail.com), if applicable! The percentage of the reward from me is based on the amount I receive for referring you.
+1. **Choose a Service**: Browse the referral options listed below.
+2. **Use My Referral Link**: Click the provided link to sign up.
+3. **Meet the Requirements**: Complete the qualifying actions within the required timeframe.
+4. **Get Rewarded**: Earn your base reward from the company, and if applicable, receive a bonus from me — [email me](mailto:premium.github@gmail.com) your Zelle after signing up & meeting requirements! My bonus offer is based on the percentage I earn for referring you. 
 
 ---
 ## Available Referral Links 🌐
 ### Cashback Portals 💰
-Here’s a special opportunity to earn extra cashback at your favorite stores with cashback portals! 
-
+Cashback portals are websites that reward you with a percentage of your purchase when you shop through their links. Simply click through the portal before buying from your favorite stores, and earn real cash back—on top of any existing discounts or rewards!
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
   <thead>
     <tr>
@@ -40,16 +39,16 @@ Here’s a special opportunity to earn extra cashback at your favorite stores wi
         </a>
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">$30 or $40</td>
-      <td style="border:1px solid #ddd; padding:8px;">Spend $30 or $40 (depending on current active offer) on a qualifying order</td>
+      <td style="border:1px solid #ddd; padding:8px;">Spend $30 or $40 on a qualifying order through Rakuten Cashback Portal</td>
       <td style="border:1px solid #ddd; padding:8px;">10% of active offer; $3.00 ($30) or $4.00 ($40)</td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Sign Up with Rakuten Cashback Referral Link</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>Earn up to $30 or $40 back when you spend $30 or $40</strong>(Offer updates frequently, % is calculated based on average)</li>
-          <li><strong>My offer will be delayed until Rakuten issues checks, which typically occurs on the payment date, approximately every three months.</strong></li>
-          <li><strong>Terms Apply:</strong> Check Rakuten’s site for full details.</li>
+          <li><strong>Spend $30 or $40, get $30/$40 back</strong> as a signup bonus—essentially shop for free.</li>
+          <li><strong>Bonus varies</strong> based on Rakuten’s current offer; check link for latest.</li>
+          <li>I can only pay you through Zelle after Rakuten sends referal check payouts (approx. every 3 months).</li>
         </ul>
       </td>
     </tr>
