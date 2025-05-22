@@ -56,9 +56,8 @@ Cashback portals are websites that reward you with a percentage of your purchase
 </table>
 
 
-
 ### Credit Cards 💳
-These are my favorite credit card(s) which offer great cashback and perks, without any annual fees!
+These are my favorite credit card(s) which offer great cashback and perks, **without any annual fees**!
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
    <thead>
@@ -75,7 +74,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       <tr>
          <td style="border:1px solid #ddd; padding:8px; text-align:center;">
             <a href="https://refer.discover.com/s/cfmwej">
-            <img src="https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-secured-fr-rgb-620-382.png" alt="DISCOVER credit card" style="vertical-align:middle; border:none;">
+            <img src="https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-secured-fr-rgb-620-382.png" alt="DISCOVER credit card" style="max-width:100%; height:auto; border:none;">
             <br><strong>Discover</strong>
             </a>
          </td>
@@ -94,7 +93,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       <tr>
          <td style="border:1px solid #ddd; padding:8px; text-align:center;">
             <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpoXYV&xl=cp01">
-            <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="width:450px; height:150px; vertical-align:middle; border:none;">
+            <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="max-width:100%; height:auto; border:none;">
             <br><strong>American Express Blue Cash Everyday®</strong>
             </a>
          </td>
@@ -114,7 +113,7 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
       <tr>
          <td style="border:1px solid #ddd; padding:8px; text-align:center;">
             <a href="https://app.privacy.com/join/G25UX">
-            <img src="https://cdn.prod.website-files.com/6356e57a1c98ed8f8e4285ae/664523e2da0e4763e3790744_protected.png" alt="Privacy Card" style="width:320px; height:150px; vertical-align:middle; border:none;">
+            <img src="https://cdn.prod.website-files.com/6356e57a1c98ed8f8e4285ae/664523e2da0e4763e3790744_protected.png" alt="Privacy Card" style="max-width:100%; height:auto; border:none;">
             <br><strong>Privacy Card</strong><br>(Virtual Credit Card Generator)
             </a>
          </td>
@@ -126,13 +125,14 @@ These are my favorite credit card(s) which offer great cashback and perks, witho
          </td>
          <td style="border:1px solid #ddd; padding:8px;">
             <ul style="margin:0; padding:0; list-style-type:none;">
-                <li><strong>Generates Virtual Credit/Debit Cards. Do not require a credit pull.</li>
-               <li><strong>Note:</strong> $5 credit isn't available unless a referral link is used.</li>
+                <li><strong>Generates Virtual Credit/Debit Cards.</strong> Do not require a credit pull.</li>
+                <li><strong>Note:</strong> $5 credit isn't available unless a referral link is used.</li>
             </ul>
          </td>
       </tr>
    </tbody>
 </table>
+
 
 
   <!-- 
