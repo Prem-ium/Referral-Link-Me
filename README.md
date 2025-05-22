@@ -17,6 +17,7 @@ Please [Email Me](mailto:premium.github@gmail.com) your Zelle once you've used t
 
 ---
 ## Available Referral Links 🌐
+---
 ### Cashback Portals 💰
 Cashback portals are websites that reward you with a percentage of your purchase when you shop through their links. Simply click through the portal before buying from your favorite stores, and earn real cash back—on top of any existing discounts or rewards!
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
@@ -57,6 +58,7 @@ Cashback portals are websites that reward you with a percentage of your purchase
   </tbody>
 </table>
 
+---
 <h3>Credit Cards 💳</h3>
 <p>These are my favorite credit card(s) which offer great cashback and perks, <strong>without any annual fees</strong>!</p>
 
@@ -165,43 +167,53 @@ Cashback portals are websites that reward you with a percentage of your purchase
   </tr>
 -->
 
-### Banking 🏦
-Take advantage of this opportunity to earn more with a high-yield Online Savings Account at Marcus by Goldman Sachs!
+---
+### High-Yield Savings Accounts 🏦
 
-Open an Online Savings Account using my unique referral link below and enjoy a bonus APY. Although I cannot offer a reward, using this referral link will provide you with a better rate than signing up directly.
+Take advantage of high-yield savings opportunities and earn more interest on your money.
+Some banks even offer **bonus APY promotions** when you sign up through a referral link. 
+You can join and use <a href="https://calculate-savings-interest.netlify.app/" target="_blank" style="color:#007bff;">this Interest Calculator</a> to determine how much you'll earn by leaving your cash in your HYSA.
 
-<table style="width:100%; border-collapse:collapse; margin:20px 0;">
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-family:sans-serif;">
   <thead>
     <tr>
-      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Bank</th>
-      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Current Savings Account Rate</th>
-      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Referral Link</th>
-      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Notes</th>
+      <th style="border:1px solid #ccc; padding:10px; text-align:left;">Bank</th>
+      <th style="border:1px solid #ccc; padding:10px; text-align:left;">Current Rate</th>
+      <th style="border:1px solid #ccc; padding:10px; text-align:left;">Referral Link</th>
+      <th style="border:1px solid #ccc; padding:10px; text-align:left;">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">
-          <img src="https://pbs.twimg.com/profile_images/1224326978792296449/9iMQOveW_400x400.png" alt="Marcus by Goldman Sachs" style="width:200px; height:auto; vertical-align:middle; border:none;">
-          <br><strong>Marcus by Goldman Sachs</strong>
+      <td style="border:1px solid #ccc; padding:10px; text-align:center;">
+        <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="text-decoration:none; color:#007bff;">
+          <img 
+            src="https://pbs.twimg.com/profile_images/1224326978792296449/9iMQOveW_400x400.png" 
+            alt="Marcus by Goldman Sachs" 
+            style="width:150px; height:auto; border:none; margin-bottom:10px;">
+          <br>
+          <strong>Marcus by Goldman Sachs</strong>
         </a>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">3.75% APY (as of 04/01/2025)</td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="color:#007bff; text-decoration:none;">Marcus Goldman Sachs Referral Link</a>
+        <td style="border:1px solid #ccc; padding:10px;">
+        3.75% APY  
+        <br><small>(as of 04/01/2025)</small>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        <ul style="margin:0; padding:0; list-style-type:none;">
-          <li>Although I cannot offer a reward, using this referral link will provide you with a better APY rate than signing up directly.</li>
-          <li><strong>Referral Bonus:</strong> +0.25% Bonus APY for 3 months</li>
-          <li><strong>Terms Apply:</strong> Click the referral link for full terms and conditions.</li>
+      <td style="border:1px solid #ccc; padding:10px;">
+        <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="text-decoration:none; color:#007bff;">
+          Marcus Referral Link
+        </a>
+      </td>
+      <td style="border:1px solid #ccc; padding:10px;">
+        <ul style="margin:0; padding-left:20px;">
+          <li><strong>Bonus:</strong> +0.25% APY for the first 3 months when using the referral link</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
+---
 ### Brokerages 📈
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
