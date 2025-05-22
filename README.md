@@ -23,9 +23,10 @@ Cashback portals are websites that reward you with a percentage of your purchase
   <thead>
     <tr>
       <th style="border:1px solid #ddd; padding:8px;">Cashback Portal</th>
-      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
       <th style="border:1px solid #ddd; padding:8px;">Condition</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
       <th style="border:1px solid #ddd; padding:8px;">Offer from Me</th>
+        <th style="border:1px solid #ddd; padding:8px;">Total Gain</th>
       <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
       <th style="border:1px solid #ddd; padding:8px;">Notes</th>
     </tr>
@@ -38,9 +39,10 @@ Cashback portals are websites that reward you with a percentage of your purchase
           <br><strong>Rakuten</strong>
         </a>
       </td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">$30 or $40</td>
-      <td style="border:1px solid #ddd; padding:8px;">Spend $30 or $40 on a qualifying order through Rakuten Cashback Portal</td>
-      <td style="border:1px solid #ddd; padding:8px;">10% of active offer; $3.00 ($30) or $4.00 ($40)</td>
+    <td style="border:1px solid #ddd; padding:8px;">Spend $30 or $40 on any qualifiying order</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><strong>$30 or $40</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">10% of active offer; $3.00 or $4.00</td>
+    <td style="border:1px solid #ddd; padding:8px;"><strong>$33.00 or $44.00</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Sign Up with Rakuten Cashback Referral Link</a>
       </td>
@@ -48,89 +50,91 @@ Cashback portals are websites that reward you with a percentage of your purchase
         <ul style="margin:0; padding:0; list-style-type:none;">
           <li><strong>Spend $30 or $40, get $30/$40 back</strong> as a signup bonus—essentially shop for free.</li>
           <li><strong>Bonus varies</strong> based on Rakuten’s current offer; check link for latest.</li>
-          <li>I can only pay you through Zelle after Rakuten sends referal check payouts (approx. every 3 months).</li>
+          <li>Payment sent through Zelle after Rakuten sends referal payouts (approx. every 3 months).</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-
-### Credit Cards 💳
-These are my favorite credit card(s) which offer great cashback and perks, **without any annual fees**!
+<h3>Credit Cards 💳</h3>
+<p>These are my favorite credit card(s) which offer great cashback and perks, <strong>without any annual fees</strong>!</p>
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
-   <thead>
-      <tr>
-         <th style="border:1px solid #ddd; padding:8px;">Credit Card</th>
-         <th style="border:1px solid #ddd; padding:8px;">Base Reward (From App)</th>
-         <th style="border:1px solid #ddd; padding:8px;">Condition</th>
-         <th style="border:1px solid #ddd; padding:8px;">Extra Reward (From me)</th>
-         <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
-         <th style="border:1px solid #ddd; padding:8px;">Notes</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-            <a href="https://refer.discover.com/s/cfmwej">
-            <img src="https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-secured-fr-rgb-620-382.png" alt="DISCOVER credit card" style="max-width:100%; height:auto; border:none;">
-            <br><strong>Discover</strong>
-            </a>
-         </td>
-         <td style="border:1px solid #ddd; padding:8px;">$100</td>
-         <td style="border:1px solid #ddd; padding:8px;">Use your Discover card once within 3 months (any amount)</td>
-         <td style="border:1px solid #ddd; padding:8px;">$10 (10%)</td>
-         <td style="border:1px solid #ddd; padding:8px;">
-            <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff; text-decoration:none;">Discover Referral Link</a>
-         </td>
-         <td style="border:1px solid #ddd; padding:8px;">
-            <ul style="margin:0; padding:0; list-style-type:none;">
-               <li><strong>Up to 5% cash back:</strong> Rotating categories each quarter; 1% cash back on all other purchases.</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-            <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpoXYV&xl=cp01">
-            <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="max-width:100%; height:auto; border:none;">
-            <br><strong>American Express Blue Cash Everyday®</strong>
-            </a>
-         </td>
-         <td style="border:1px solid #ddd; padding:8px;">$250</td>
-         <td style="border:1px solid #ddd; padding:8px;">Spend $2,000 in 6 months</td>
-         <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
-         <td style="border:1px solid #ddd; padding:8px;">
-            <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpoXYV&xl=cp01" style="color:#007bff; text-decoration:none;">American Express Referral Link</a>
-         </td>
-         <td style="border:1px solid #ddd; padding:8px;">
-            <ul style="margin:0; padding:0; list-style-type:none;">
-               <li><strong>3% CASH BACK:</strong> On groceries, gas, and U.S. online retail purchases (up to $6,000 annually, then 1%).</li>
-               <li><strong>1% CASH BACK:</strong> On all other purchases.</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-            <a href="https://app.privacy.com/join/G25UX">
-            <img src="https://cdn.prod.website-files.com/6356e57a1c98ed8f8e4285ae/664523e2da0e4763e3790744_protected.png" alt="Privacy Card" style="max-width:100%; height:auto; border:none;">
-            <br><strong>Privacy Card</strong><br>(Virtual Credit Card Generator)
-            </a>
-         </td>
-         <td style="border:1px solid #ddd; padding:8px;">$5</td>
-         <td style="border:1px solid #ddd; padding:8px;">Make any purchase using a Privacy Card</td>
-         <td style="border:1px solid #ddd; padding:8px;">N/A</td>
-         <td style="border:1px solid #ddd; padding:8px;">
-            <a href="https://app.privacy.com/join/G25UX" style="color:#007bff; text-decoration:none;">Privacy Referral Link</a>
-         </td>
-         <td style="border:1px solid #ddd; padding:8px;">
-            <ul style="margin:0; padding:0; list-style-type:none;">
-                <li><strong>Generates Virtual Credit/Debit Cards.</strong> Do not require a credit pull.</li>
-                <li><strong>Note:</strong> $5 credit isn't available unless a referral link is used.</li>
-            </ul>
-         </td>
-      </tr>
-   </tbody>
+  <thead>
+    <tr>
+      <th style="border:1px solid #ddd; padding:8px;">Credit Card</th>
+      <th style="border:1px solid #ddd; padding:8px;">Condition</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
+      <th style="border:1px solid #ddd; padding:8px;">Offer from Me</th>
+      <th style="border:1px solid #ddd; padding:8px;">Total Gain</th>
+      <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
+      <th style="border:1px solid #ddd; padding:8px;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://refer.discover.com/s/cfmwej">
+          <img src="https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-secured-fr-rgb-620-382.png" alt="DISCOVER credit card" style="max-width:100%; height:auto; border:none;">
+          <br><strong>Discover</strong>
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">Use your Discover card once within 3 months (any amount)</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$100</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">$10 (10%)</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$110</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff; text-decoration:none;">Discover Referral Link</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <ul style="margin:0; padding:0; list-style-type:none;">
+          <li><strong>Up to 5% cash back:</strong> Rotating categories each quarter; 1% on all other purchases.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01">
+          <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="max-width:100%; height:auto; border:none;">
+          <br><strong>American Express Blue Cash Everyday®</strong>
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">Spend $2,000 in 6 months</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$250</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$257.50</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01" style="color:#007bff; text-decoration:none;">American Express Referral Link</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <ul style="margin:0; padding:0; list-style-type:none;">
+          <li><strong>3% Cashback:</strong> On groceries, gas, and U.S. online retail purchases; 1% on all other purchases.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://app.privacy.com/join/G25UX">
+          <img src="https://cdn.prod.website-files.com/6356e57a1c98ed8f8e4285ae/664523e2da0e4763e3790744_protected.png" alt="Privacy Card" style="max-width:100%; height:auto; border:none;">
+          <br><strong>Privacy Card</strong><br>(Virtual Credit Card Generator)
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">Make any purchase using a Privacy Card</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$5</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">N/A</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$5</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://app.privacy.com/join/G25UX" style="color:#007bff; text-decoration:none;">Privacy Referral Link</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <ul style="margin:0; padding:0; list-style-type:none;">
+          <li><strong>Generates Virtual Credit/Debit Cards.</strong> No credit pull required.</li>
+          <li><strong>Note:</strong> $5 credit only available with a referral link.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
