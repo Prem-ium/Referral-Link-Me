@@ -214,6 +214,46 @@ You can join and use <a href="https://calculate-savings-interest.netlify.app/" t
 </table>
 
 ---
+<h3>Groceries & Food Delivery 🛒</h3>
+<p>Get discounts on your first order when you try these food delivery and grocery platforms!</p>
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #ddd; padding:8px;">Service</th>
+      <th style="border:1px solid #ddd; padding:8px;">Condition</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
+      <th style="border:1px solid #ddd; padding:8px;">Offer from Me</th>
+      <th style="border:1px solid #ddd; padding:8px;">Total Gain</th>
+      <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
+      <th style="border:1px solid #ddd; padding:8px;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://inst.cr/t/16302c75b">
+          <img src="https://www.instacart.com/company/wp-content/uploads/2022/03/03-Instacart-Logo-Kale-1.jpg" alt="Instacart" style="width:200px; height:auto; border:none;">
+          <br><strong>Instacart</strong>
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">Place your first order using referral link</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$10 off</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">N/A</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$10</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://inst.cr/t/16302c75b" style="color:#007bff; text-decoration:none;">Instacart Referral Link</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <ul style="margin:0; padding:0; list-style-type:none;">
+          <li><strong>$10 off</strong> your first grocery order</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 ### Brokerages 📈
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
