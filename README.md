@@ -254,40 +254,71 @@ You can join and use <a href="https://calculate-savings-interest.netlify.app/" t
 </table>
 
 ---
-### Brokerages 📈
+<h3>Brokerages 📈</h3>
 
-<table style="width:100%; border-collapse:collapse; margin:20px 0;">
+<table style="width:100%; border-collapse:collapse; margin:20px 0; text-align:left; color:#ddd;">
   <thead>
-    <tr>
-      <th style="border:1px solid #ddd; padding:8px;">Name</th>
-      <th style="border:1px solid #ddd; padding:8px;">Base Reward (From App)</th>
-      <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
+    <tr style="background-color:#222;">
+      <th style="border:1px solid #444; padding:12px;">Brokerage</th>
+      <th style="border:1px solid #444; padding:12px;">Base Reward</th>
+      <th style="border:1px solid #444; padding:12px;">Referral Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #ddd; padding:8px;">WeBull</td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        Create an Account & Deposit Any Amount for up to 24 Free Shares
+      <td style="border:1px solid #444; padding:12px;">
+        <div style="display:flex; align-items:center;">
+          <img src="https://play-lh.googleusercontent.com/n3Ea2m2qW6r73EgGfC9o7H8A6XLeUieGZvUmxBi-ufkUOSqTqLoAJUgvsp9JjErSPq0" alt="Robinhood Logo" width="24" style="margin-right:8px;">
+          Robinhood
+        </div>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://a.webull.com/ngmAEU7Yr1rrRMzqS0" style="color:#007bff; text-decoration:none;">Sign up</a>
+      <td style="border:1px solid #444; padding:12px;">
+        Free stock (valued up to $500)
       </td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ddd; padding:8px;">Robinhood</td>
-      <td style="border:1px solid #ddd; padding:8px;">Free stock (valued up to $500)</td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://join.robinhood.com/premp-b624a6c4" style="color:#007bff; text-decoration:none;">Sign up</a>
+      <td style="border:1px solid #444; padding:12px;">
+        <a href="https://join.robinhood.com/premp-b624a6c4" style="color:#4da6ff;">Sign up</a>
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:8px;">Public</td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        Free fractional share up to $15 (no deposit required)
+      <td style="border:1px solid #444; padding:12px;">
+        <div style="display:flex; align-items:center;">
+          <img src="https://studiomococo.com/wp-content/uploads/Public_Main.jpg" alt="Public Logo" width="24" style="margin-right:8px;">
+          Public
+        </div>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://share.public.com/vrem" style="color:#007bff; text-decoration:none;">Sign up</a>
+      <td style="border:1px solid #444; padding:12px;">
+        Receive $20 worth of the stock of your choice
+      </td>
+      <td style="border:1px solid #444; padding:12px;">
+        <a href="https://share.public.com/vrem" style="color:#4da6ff;">Sign up</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #444; padding:12px;">
+        <div style="display:flex; align-items:center;">
+          <img src="https://play-lh.googleusercontent.com/d0mBLWUYcRBdrNGqHJKe6Rtf8X863uQ14Aped4LdwfV3mXnZVsX0M2m3otaU3kedXeo" alt="Webull Logo" width="24" style="margin-right:8px;">
+          Webull
+        </div>
+      </td>
+      <td style="border:1px solid #444; padding:12px;">
+        Deposit Any Amount for up to 24 Free Shares
+      </td>
+      <td style="border:1px solid #444; padding:12px;">
+        <a href="https://a.webull.com/ngmAEU7Yr1rrRMzqS0" style="color:#4da6ff;">Sign up</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #444; padding:12px;">
+        <div style="display:flex; align-items:center;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Charles_Schwab_Corporation_logo.svg/1200px-Charles_Schwab_Corporation_logo.svg.png" alt="Schwab Logo" width="24" style="margin-right:8px;">
+          Charles Schwab
+        </div>
+      </td>
+      <td style="border:1px solid #444; padding:12px;">
+        Get up to $1,000 (reward tier based on net deposit)
+      </td>
+      <td style="border:1px solid #444; padding:12px;">
+        <a href="https://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFERAAQXUJGB" style="color:#4da6ff;">Sign up</a>
       </td>
     </tr>
   </tbody>
