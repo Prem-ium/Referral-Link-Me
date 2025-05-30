@@ -3,7 +3,7 @@
     <img src="https://github.com/Prem-ium/Referral-Link-Me/blob/main/.github/Assets/Banner.png?raw=true" alt="Referral Link Me Banner">
 </p>
 
-Welcome to **Referral-Link-Me**! This is a curated list of referral links to credit cards, brokerages, and more that I use (with additional rewards for some services). By using some of my referral links, you can gain extra benefits beyond the base rewards offered by companies. Using these links also supports me, as I may earn a small commission or benefit at no cost to you.
+Welcome to **Referral-Link-Me**! This is a curated list of referral links to credit cards, brokerages, and more that I use (with additional rewards for some services). By using some of my referral links, you can gain extra benefits beyond the base rewards offered by companies. Using these links also supports me, as I may earn a small commission at no cost to you.
 
 Please [Email Me](mailto:premium.github@gmail.com) your Zelle once you've used the referral link and fufilled the conditions to unlock the referral bonus. 
 
@@ -45,7 +45,7 @@ Cashback portals are websites that reward you with a percentage of your purchase
       <td style="border:1px solid #ddd; padding:8px;">10% of active offer; $3.00 or $4.00</td>
     <td style="border:1px solid #ddd; padding:8px;"><strong>$33.00 or $44.00</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Sign Up with Rakuten Cashback Referral Link</a>
+        <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Join Rakuten (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
@@ -87,7 +87,7 @@ Cashback portals are websites that reward you with a percentage of your purchase
       <td style="border:1px solid #ddd; padding:8px;">$10 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$110</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff; text-decoration:none;">Discover Referral Link</a>
+        <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff; text-decoration:none;">Join Discover (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
@@ -107,7 +107,7 @@ Cashback portals are websites that reward you with a percentage of your purchase
       <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$257.50</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01" style="color:#007bff; text-decoration:none;">American Express Referral Link</a>
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01" style="color:#007bff; text-decoration:none;">Join American Express (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
@@ -127,7 +127,7 @@ Cashback portals are websites that reward you with a percentage of your purchase
       <td style="border:1px solid #ddd; padding:8px;">N/A</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$5</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://app.privacy.com/join/G25UX" style="color:#007bff; text-decoration:none;">Privacy Referral Link</a>
+        <a href="https://app.privacy.com/join/G25UX" style="color:#007bff; text-decoration:none;">Join Privacy (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
@@ -196,12 +196,12 @@ You can join and use <a href="https://calculate-savings-interest.netlify.app/" t
         </a>
       </td>
         <td style="border:1px solid #ccc; padding:10px;">
-        3.75% APY  
-        <br><small>(as of 04/01/2025)</small>
+        3.65% APY  
+        <br><small>(as of 05/30/2025)</small>
       </td>
       <td style="border:1px solid #ccc; padding:10px;">
         <a href="https://www.marcus.com/share/PRE-FSK-Z7MH" style="text-decoration:none; color:#007bff;">
-          Marcus Referral Link
+          Join Marcus (Referral)
         </a>
       </td>
       <td style="border:1px solid #ccc; padding:10px;">
