@@ -69,7 +69,6 @@ Cashback portals give you money back when you shop online. Just start your purch
 </table>
 
 ---
-
 ### Credit Cards 💳
 
 These are my top picks for **cashback cards** — no annual fees, strong signup bonuses, and useful perks.
@@ -179,6 +178,7 @@ These are my top picks for **cashback cards** — no annual fees, strong signup 
     </td>
   </tr>
 -->
+---
 ### High-Yield Savings Accounts 🏦
 
 Take advantage of high-yield savings opportunities and earn more interest on your money.  
@@ -386,7 +386,8 @@ Gold Tier GitHub Sponsors on logs for 3+ months may be eligible for an additiona
    - [Donate via GitHub Sponsors](https://github.com/sponsors/Prem-ium)
    - [![GitHub Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Prem-ium)
 
-# Terms & Conditions ⚖️
+---
+## Terms & Conditions ⚖️
 
 To ensure a smooth and transparent experience, please read the following terms and conditions carefully:
 
@@ -396,7 +397,6 @@ To ensure a smooth and transparent experience, please read the following terms a
 4. **Documentation**: You may be required to provide proof of meeting the conditions to receive the extra reward.
 
 ---
-
 ## Thank You!
 
 Thank you for supporting me by using my referral links! Using these links costs you nothing, yet it provides significant support to me. Your support is greatly appreciated and enables me to continue creating and sharing valuable tools and resources with the open-source community. If you have any questions or need further information, please feel free to reach out!
