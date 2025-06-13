@@ -3,23 +3,33 @@
     <img src="https://github.com/Prem-ium/Referral-Link-Me/blob/main/.github/Assets/Banner.png?raw=true" alt="Referral Link Me Banner">
 </p>
 
-Welcome to **Referral-Link-Me**! This is a curated list of referral links to credit cards, brokerages, and more that I use (with additional rewards for some services). By using some of my referral links, you can gain extra benefits beyond the base rewards offered by companies. Using these links also supports me, as I may earn a small commission at no cost to you.
+Welcome to **Referral-Link-Me**! This is a curated list of referral links to credit cards, brokerages, and more that I use—some of which offer *additional rewards beyond the usual bonuses*.  
+When you use my referral links, you **get rewarded**, and I may receive a small commission **at no cost to you**.  
 
-Please [Email Me](mailto:premium.github@gmail.com) your Zelle once you've used the referral link and fufilled the conditions to unlock the referral bonus. 
+> 📩 **Important**: After signing up and completing the requirements, please [email me](mailto:premium.github@gmail.com) with your **Zelle** info so I can send you your bonus if eligible.
 
 ---
+
 ## How It Works 🔍
 
-1. **Choose a Service**: Browse the referral options listed below.
-2. **Use My Referral Link**: Click the provided link to sign up.
-3. **Meet the Requirements**: Complete the qualifying actions within the required timeframe.
-4. **Get Rewarded**: Earn your base reward from the company, and if applicable, receive a bonus from me — [email me](mailto:premium.github@gmail.com) your Zelle after signing up & meeting requirements! My bonus offer is based on the percentage I earn for referring you. 
+1. **Pick a Service**: Browse from the categories below.
+2. **Click the Referral Link**: Use the provided link to sign up.
+3. **Complete the Requirements**: Follow the qualifying conditions listed.
+4. **Claim Your Bonus**: 
+   - Get the **base reward** directly from the company.
+   - Receive a **bonus from me**, if applicable — just send your Zelle info once the offer is fulfilled.  
+     (The bonus amount depends on what I earn from the referral.)
 
 ---
+
 ## Available Referral Links 🌐
+
 ---
+
 ### Cashback Portals 💰
-Cashback portals are websites that reward you with a percentage of your purchase when you shop through their links. Simply click through the portal before buying from your favorite stores, and earn real cash back—on top of any existing discounts or rewards!
+
+Cashback portals give you money back when you shop online. Just start your purchase by clicking through their site.
+
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
   <thead>
     <tr>
@@ -27,7 +37,7 @@ Cashback portals are websites that reward you with a percentage of your purchase
       <th style="border:1px solid #ddd; padding:8px;">Condition</th>
       <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
       <th style="border:1px solid #ddd; padding:8px;">Offer from Me</th>
-        <th style="border:1px solid #ddd; padding:8px;">Total Gain</th>
+      <th style="border:1px solid #ddd; padding:8px;">Total Gain</th>
       <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
       <th style="border:1px solid #ddd; padding:8px;">Notes</th>
     </tr>
@@ -40,18 +50,18 @@ Cashback portals are websites that reward you with a percentage of your purchase
           <br><strong>Rakuten</strong>
         </a>
       </td>
-    <td style="border:1px solid #ddd; padding:8px;">Spend $30 or $40 on any qualifiying order</td>
+      <td style="border:1px solid #ddd; padding:8px;">Spend $30 or $40 on any qualifying order</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><strong>$30 or $40</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">10% of active offer; $3.00 or $4.00</td>
-    <td style="border:1px solid #ddd; padding:8px;"><strong>$33.00 or $44.00</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$33.00 or $44.00</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Join Rakuten (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>Spend $30 or $40, get $30/$40 back</strong> as a signup bonus—essentially shop for free.</li>
-          <li><strong>Bonus varies</strong> based on Rakuten’s current offer; check link for latest.</li>
-          <li>Payment sent through Zelle after Rakuten sends referal payouts (approx. every 3 months).</li>
+          <li><strong>Spend $30 or $40, get $30/$40 back</strong> — essentially shop for free.</li>
+          <li><strong>Bonus varies</strong> by Rakuten’s promotion—check the link for updates.</li>
+          <li>💸 Zelle bonus paid after Rakuten sends referral payout (approx. every 3 months).</li>
         </ul>
       </td>
     </tr>
@@ -59,8 +69,10 @@ Cashback portals are websites that reward you with a percentage of your purchase
 </table>
 
 ---
-<h3>Credit Cards 💳</h3>
-<p>These are my favorite credit card(s) which offer great cashback and perks, <strong>without any annual fees</strong>!</p>
+
+### Credit Cards 💳
+
+These are my top picks for **cashback cards** — no annual fees, strong signup bonuses, and useful perks.
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
   <thead>
@@ -78,27 +90,27 @@ Cashback portals are websites that reward you with a percentage of your purchase
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="https://refer.discover.com/s/cfmwej">
-          <img src="https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-secured-fr-rgb-620-382.png" alt="DISCOVER credit card" style="max-width:100%; height:auto; border:none;">
+          <img src="https://www.discover.com/content/dam/discover/en_us/credit-cards/card-acquisitions/grey-redesign/global/images/cardart/cardart-secured-fr-rgb-620-382.png" alt="Discover Card" style="max-width:100%; height:auto;">
           <br><strong>Discover</strong>
         </a>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">Use your Discover card once within 3 months (any amount)</td>
+      <td style="border:1px solid #ddd; padding:8px;">Use your Discover card once within 3 months</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$100</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">$10 (10%)</td>
-      <td style="border:1px solid #ddd; padding:8px;"><strong>$110</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$115</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff; text-decoration:none;">Join Discover (Referral)</a>
+        <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff;">Join Discover (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>Up to 5% cash back:</strong> Rotating categories each quarter; 1% on all other purchases.</li>
+          <li><strong>5% cash back</strong> on rotating categories; 1% on all others.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01">
-          <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="American Express Blue Cash Everyday®" style="max-width:100%; height:auto; border:none;">
+          <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="Amex Blue Cash Everyday" style="max-width:100%; height:auto;">
           <br><strong>American Express Blue Cash Everyday®</strong>
         </a>
       </td>
@@ -107,37 +119,38 @@ Cashback portals are websites that reward you with a percentage of your purchase
       <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$257.50</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01" style="color:#007bff; text-decoration:none;">Join American Express (Referral)</a>
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01" style="color:#007bff;">Join American Express (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>3% Cashback:</strong> On groceries, gas, and U.S. online retail purchases; 1% on all other purchases.</li>
+          <li><strong>3% Cashback</strong> on groceries, gas, and online retail.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="https://app.privacy.com/join/G25UX">
-          <img src="https://cdn.prod.website-files.com/6356e57a1c98ed8f8e4285ae/664523e2da0e4763e3790744_protected.png" alt="Privacy Card" style="max-width:100%; height:auto; border:none;">
+          <img src="https://cdn.prod.website-files.com/6356e57a1c98ed8f8e4285ae/664523e2da0e4763e3790744_protected.png" alt="Privacy Card" style="max-width:100%; height:auto;">
           <br><strong>Privacy Card</strong><br>(Virtual Credit Card Generator)
         </a>
       </td>
-      <td style="border:1px solid #ddd; padding:8px;">Make any purchase using a Privacy Card</td>
+      <td style="border:1px solid #ddd; padding:8px;">Make any purchase</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$5</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">N/A</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$5</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://app.privacy.com/join/G25UX" style="color:#007bff; text-decoration:none;">Join Privacy (Referral)</a>
+        <a href="https://app.privacy.com/join/G25UX" style="color:#007bff;">Join Privacy (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>Generates Virtual Credit/Debit Cards.</strong> No credit pull required.</li>
-          <li><strong>Note:</strong> $5 credit only available with a referral link.</li>
+          <li><strong>Create virtual debit/credit cards</strong> instantly.</li>
+          <li><strong>Only $5 bonus with referral.</strong></li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
@@ -166,12 +179,10 @@ Cashback portals are websites that reward you with a percentage of your purchase
     </td>
   </tr>
 -->
-
----
 ### High-Yield Savings Accounts 🏦
 
-Take advantage of high-yield savings opportunities and earn more interest on your money.
-Some banks even offer **bonus APY promotions** when you sign up through a referral link. 
+Take advantage of high-yield savings opportunities and earn more interest on your money.  
+Some banks even offer **bonus APY promotions** when you sign up through a referral link.  
 You can join and use <a href="https://calculate-savings-interest.netlify.app/" target="_blank" style="color:#007bff;">this Interest Calculator</a> to determine how much you'll earn by leaving your cash in your HYSA.
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0; font-family:sans-serif;">
@@ -195,7 +206,7 @@ You can join and use <a href="https://calculate-savings-interest.netlify.app/" t
           <strong>Marcus by Goldman Sachs</strong>
         </a>
       </td>
-        <td style="border:1px solid #ccc; padding:10px;">
+      <td style="border:1px solid #ccc; padding:10px;">
         3.65% APY  
         <br><small>(as of 05/30/2025)</small>
       </td>
@@ -214,8 +225,10 @@ You can join and use <a href="https://calculate-savings-interest.netlify.app/" t
 </table>
 
 ---
-<h3>Groceries & Food Delivery 🛒</h3>
-<p>Get discounts on your first order when you try these food delivery and grocery platforms!</p>
+
+### Groceries & Food Delivery 🛒
+
+Get discounts on your first order when you try these food delivery and grocery platforms!
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
   <thead>
@@ -246,7 +259,7 @@ You can join and use <a href="https://calculate-savings-interest.netlify.app/" t
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>$10 off</strong> your first grocery order</li>
+          <li><strong>$10 off</strong> your first grocery delivery.</li>
         </ul>
       </td>
     </tr>
@@ -254,7 +267,50 @@ You can join and use <a href="https://calculate-savings-interest.netlify.app/" t
 </table>
 
 ---
-<h3>Brokerages 📈</h3>
+---
+
+### Fashion & Lifestyle 👗
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #ddd; padding:8px;">Service</th>
+      <th style="border:1px solid #ddd; padding:8px;">Condition</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
+      <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
+      <th style="border:1px solid #ddd; padding:8px;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://posh.mk/KqTfxPvwaUb">
+          <img src="https://images.seeklogo.com/logo-png/48/1/poshmark-logo-png_seeklogo-482775.png" alt="Poshmark" style="width:150px; height:auto; vertical-align:middle; border:none;">
+          <br><strong>Poshmark</strong>
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        Use code <code>PREM_IUM</code> at signup and make a first purchase
+      </td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <strong>$10 Off</strong>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://posh.mk/KqTfxPvwaUb" style="color:#007bff; text-decoration:none;">Join Poshmark (Referral)</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <ul style="margin:0; padding-left:20px; list-style-type:disc;">
+          <li><strong>Save $10</strong> instantly on your first fashion/lifestyle purchase.</li>
+          <li>No additional bonus from me, but great for thrifty shopping.</li>
+          <li>Referral works only with code <code>PREM_IUM</code>.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+### Brokerages 📈
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0; text-align:left; color:#ddd;">
   <thead>
@@ -330,16 +386,17 @@ Gold Tier GitHub Sponsors on logs for 3+ months may be eligible for an additiona
    - [Donate via GitHub Sponsors](https://github.com/sponsors/Prem-ium)
    - [![GitHub Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Prem-ium)
 
----
-## Terms & Conditions ⚖️
+# Terms & Conditions ⚖️
 
 To ensure a smooth and transparent experience, please read the following terms and conditions carefully:
 
 1. **Eligibility**: This offer is valid only if you use my referral link and meet the required conditions set by the service within the specified time frame.  
 2. **Extra Reward Payment**: The extra reward from me will be paid out (via Zelle payment) once the company sends the referral reward to me.  
-3. **Offer Availability**: The extra reward from me is only paid out if the referral is successful, and the service does not discontinue, restrict, or alter its current referral offer. Apps/websites may update their referral offer without prior notice, but the percentage (not amount) of new offer listed in the readme will be honored unless explicitly stated otherwise. 
+3. **Offer Availability**: The extra reward from me is only paid out if the referral is successful, and the service does not discontinue, restrict, or alter its current referral offer. Apps/websites may update their referral offer without prior notice, but the percentage (not amount) of new offer listed in the readme will be honored.  
 4. **Documentation**: You may be required to provide proof of meeting the conditions to receive the extra reward.
 
 ---
+
 ## Thank You!
+
 Thank you for supporting me by using my referral links! Using these links costs you nothing, yet it provides significant support to me. Your support is greatly appreciated and enables me to continue creating and sharing valuable tools and resources with the open-source community. If you have any questions or need further information, please feel free to reach out!
