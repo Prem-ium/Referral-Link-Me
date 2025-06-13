@@ -285,7 +285,7 @@ Get discounts on your first order when you try these food delivery and grocery p
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="https://posh.mk/KqTfxPvwaUb">
-          <img src="https://images.seeklogo.com/logo-png/48/1/poshmark-logo-png_seeklogo-482775.png" alt="Poshmark" style="width:150px; height:auto; vertical-align:middle; border:none;">
+          <img src="https://play-lh.googleusercontent.com/usX9zpURCN66gkUY0H9aCIHAfZ05dFtpp2YWdFgiiuPNebbZNi9ayYkQHM8Sa1kP_A0" alt="Poshmark" style="width:150px; height:auto; vertical-align:middle; border:none;">
           <br><strong>Poshmark</strong>
         </a>
       </td>
