@@ -267,8 +267,6 @@ Get discounts on your first order when you try these food delivery and grocery p
 </table>
 
 ---
----
-
 ### Fashion & Lifestyle 👗
 
 <table style="width:100%; border-collapse:collapse; margin:20px 0;">
@@ -300,9 +298,8 @@ Get discounts on your first order when you try these food delivery and grocery p
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding-left:20px; list-style-type:disc;">
-          <li><strong>Save $10</strong> instantly on your first fashion/lifestyle purchase.</li>
-          <li>No additional bonus from me, but great for thrifty shopping.</li>
-          <li>Referral works only with code <code>PREM_IUM</code>.</li>
+          <li><strong>Immediately get $10</strong> credit signing up with promo/ref code `PREM_IUM`</li>
+          <li>$10 code only credited with code <code>PREM_IUM</code>.</li>
         </ul>
       </td>
     </tr>
