@@ -45,7 +45,7 @@ Cashback portals give you money back when you shop online. Just start your purch
   <tbody>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971">
+        <a href="https://www.rakuten.com/r/PREMIU444">
           <img src="https://static.rakuten.com/static/svg/rakuten/rak-logo-brand-v1.svg" alt="Rakuten" style="width:420px; height:150px; vertical-align:middle; border:none;">
           <br><strong>Rakuten</strong>
         </a>
@@ -55,7 +55,7 @@ Cashback portals give you money back when you shop online. Just start your purch
       <td style="border:1px solid #ddd; padding:8px;">10% of active offer; $3.00 or $4.00</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$33.00 or $44.00</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://www.rakuten.com/r/THEFRO247?eeid=44971" style="color:#007bff; text-decoration:none;">Join Rakuten (Referral)</a>
+        <a href="https://www.rakuten.com/r/PREMIU444" style="color:#007bff; text-decoration:none;">Join Rakuten (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
