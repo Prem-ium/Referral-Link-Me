@@ -126,6 +126,26 @@ These are my top picks for **cashback cards** — no annual fees, strong signup 
         </ul>
       </td>
     </tr>
+          <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://bilt.page/r/PLYZ-VHN8">
+          <img src="https://framerusercontent.com/images/nf14VOVCj08LtxrSD5jVnrkUY.png?scale-down-to=512" alt="Bilt Mastercard" style="max-width:100%; height:auto;">
+          <br><strong>Bilt Mastercard®</strong>
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">Get approved and use the card</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>N/A; earn 1% on rent (fee free)</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">N/A</td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>N/A</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://bilt.page/r/PLYZ-VHN8" style="color:#007bff;">Join Bilt (Referral)</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <ul style="margin:0; padding:0; list-style-type:none;">
+          <li><strong>Earn points on rent</strong> payments without fees.</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="https://app.privacy.com/join/G25UX">
