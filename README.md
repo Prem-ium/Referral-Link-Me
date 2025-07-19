@@ -108,7 +108,7 @@ These are my top picks for **cashback cards** — no annual fees, strong signup 
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01">
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpujqQ&xl=cp19">
           <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="Amex Blue Cash Everyday" style="max-width:100%; height:auto;">
           <br><strong>American Express Blue Cash Everyday®</strong>
         </a>
@@ -118,7 +118,7 @@ These are my top picks for **cashback cards** — no annual fees, strong signup 
       <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$257.50</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpIgEM&xl=cp01" style="color:#007bff;">Join American Express (Referral)</a>
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpujqQ&xl=cp19" style="color:#007bff;">Join American Express (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
