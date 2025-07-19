@@ -23,7 +23,7 @@ When you use my referral links, you **get rewarded**, and I may receive a small 
 ---
 
 ## Available Referral Links 🌐
-
+<!--
 ---
 
 ### Cashback Portals 💰
@@ -67,7 +67,7 @@ Cashback portals give you money back when you shop online. Just start your purch
     </tr>
   </tbody>
 </table>
-
+-->
 ---
 ### Credit Cards 💳
 
