@@ -96,7 +96,7 @@ These are my top picks for **cashback cards** — no annual fees, strong signup 
       <td style="border:1px solid #ddd; padding:8px;">Use your Discover card once within 3 months</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$100</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">$10 (10%)</td>
-      <td style="border:1px solid #ddd; padding:8px;"><strong>$115</strong></td>
+      <td style="border:1px solid #ddd; padding:8px;"><strong>$110</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
         <a href="https://refer.discover.com/s/cfmwej" style="color:#007bff;">Join Discover (Referral)</a>
       </td>
