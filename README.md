@@ -108,7 +108,7 @@ These are my top picks for **cashback cards** — no annual fees, strong signup 
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpujqQ&xl=cp19">
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMp0DWc&xl=cp10a1">
           <img src="https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png" alt="Amex Blue Cash Everyday" style="max-width:100%; height:auto;">
           <br><strong>American Express Blue Cash Everyday®</strong>
         </a>
@@ -118,7 +118,7 @@ These are my top picks for **cashback cards** — no annual fees, strong signup 
       <td style="border:1px solid #ddd; padding:8px;">$7.50 (10%)</td>
       <td style="border:1px solid #ddd; padding:8px;"><strong>$257.50</strong></td>
       <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMpujqQ&xl=cp19" style="color:#007bff;">Join American Express (Referral)</a>
+        <a href="https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=PREMp0DWc&xl=cp10a1" style="color:#007bff;">Join American Express (Referral)</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px;">
         <ul style="margin:0; padding:0; list-style-type:none;">
@@ -126,26 +126,33 @@ These are my top picks for **cashback cards** — no annual fees, strong signup 
         </ul>
       </td>
     </tr>
-          <tr>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="https://bilt.page/r/PLYZ-VHN8">
-          <img src="https://framerusercontent.com/images/nf14VOVCj08LtxrSD5jVnrkUY.png?scale-down-to=512" alt="Bilt Mastercard" style="max-width:100%; height:auto;">
-          <br><strong>Bilt Mastercard®</strong>
-        </a>
-      </td>
-      <td style="border:1px solid #ddd; padding:8px;">Get approved and use the card</td>
-      <td style="border:1px solid #ddd; padding:8px;"><strong>N/A; earn 1% on rent (fee free)</strong></td>
-      <td style="border:1px solid #ddd; padding:8px;">N/A</td>
-      <td style="border:1px solid #ddd; padding:8px;"><strong>N/A</strong></td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        <a href="https://bilt.page/r/PLYZ-VHN8" style="color:#007bff;">Join Bilt (Referral)</a>
-      </td>
-      <td style="border:1px solid #ddd; padding:8px;">
-        <ul style="margin:0; padding:0; list-style-type:none;">
-          <li><strong>Earn points on rent</strong> payments without fees.</li>
-        </ul>
-      </td>
-    </tr>
+<tr>
+  <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+    <a href="https://www.referyourchasecard.com/18m/HK0454QF1B">
+      <img src="https://media.chase.com/content/dam/chase/media-center/pr/freedom-flex-card.jpeg" alt="Chase Freedom Cards" style="max-width:100%; height:auto;">
+      <br><strong>Chase Freedom Unlimited® / Freedom Flex®</strong>
+    </a>
+  </td>
+  <td style="border:1px solid #ddd; padding:8px;">Get approved and use the card</td>
+  <td style="border:1px solid #ddd; padding:8px;">
+    <strong>$200 bonus (typical) after spending ~$500 in 3 months</strong>
+  </td>
+  <td style="border:1px solid #ddd; padding:8px;">$5 (10%)</td>
+  <td style="border:1px solid #ddd; padding:8px;"><strong>$205-$255</strong></td>
+  <td style="border:1px solid #ddd; padding:8px;">
+    <a href="https://www.referyourchasecard.com/18m/HK0454QF1B" style="color:#007bff;">
+      Apply via Chase Referral
+    </a>
+  </td>
+  <td style="border:1px solid #ddd; padding:8px;">
+    <ul style="margin:0; padding:0; list-style-type:none;">
+      <li><strong>Earn cash back</strong> on every purchase.</li>
+      <li>Freedom Unlimited: <strong>1.5%–5% cash back</strong> (travel, dining, drugstores).</li>
+      <li>Freedom Flex: <strong>5% rotating categories</strong> + bonus categories.</li>
+      <li><strong>No annual fee</strong>, strong everyday card pairing.</li>
+    </ul>
+  </td>
+</tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="https://app.privacy.com/join/G25UX">
