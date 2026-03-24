@@ -252,6 +252,59 @@ You can join and use <a href="https://calculate-savings-interest.netlify.app/" t
 </table>
 
 ---
+### Internet & Mobile 🌐📶
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead>
+   <tr>
+      <th style="border:1px solid #ddd; padding:8px;">Service</th>
+      <th style="border:1px solid #ddd; padding:8px;">Condition</th>
+      <th style="border:1px solid #ddd; padding:8px;">Base Reward</th>
+      <th style="border:1px solid #ddd; padding:8px;">Offer from Me</th>
+      <th style="border:1px solid #ddd; padding:8px;">Total Gain</th>
+      <th style="border:1px solid #ddd; padding:8px;">Referral Link</th>
+      <th style="border:1px solid #ddd; padding:8px;">Notes</th>
+   </tr>
+</thead>
+<tbody>
+   <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="https://referafriend.xfinity.com/dppatel500!23cd747081!a">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Xfinity_logo_2021.svg" alt="Xfinity" style="width:200px; height:auto; border:none;">
+          <br><strong>Xfinity (Internet & Mobile)</strong>
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        Sign up for Xfinity Internet and/or Mobile and stay active for 90 days
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <strong>$50 (Internet) + $50 per Mobile Line</strong><br>
+        <small>(Up to 5 lines)</small>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        $2.50(5%)
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <strong>$52.50 – $282.50</strong>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+        <a href="https://referafriend.xfinity.com/dppatel500!23cd747081!a" style="color:#007bff; text-decoration:none;">
+          Join Xfinity (Referral)
+        </a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px;">
+         <ul style="margin:0; padding:0; list-style-type:none;">
+            <li><strong>$50 for Internet</strong> signup</li>
+            <li><strong>$50 per mobile line</strong> (up to 5 lines)</li>
+            <li>Must be a <strong>new customer</strong></li>
+            <li>Rewards after <strong>90 days + 6–8 weeks</strong></li>
+         </ul>
+      </td>
+   </tr>
+</tbody>
+</table>
+
+---
 
 ### Groceries & Food Delivery 🛒
 
